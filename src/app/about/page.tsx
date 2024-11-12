@@ -24,7 +24,7 @@ export default function About (){
        </div>
         <span className="flex">
             <button className="text-white bg-black border-2 border-solid hover:bg-purple-800 border-purple-800 rounded-full px-4  mt- mb-10 ml-10"> My tech skills</button>
-            <ol className="ml-11 text-white hover:text-purple-800">
+            <ol className="ml-11 text-white hover:text-purple-800c">
                 <li>
                    . javascript
                 </li>
