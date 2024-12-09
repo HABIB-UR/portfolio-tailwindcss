@@ -8,7 +8,7 @@ export default function About (){
                 <div>
             <h1 className="text-3xl ml-20 mt-12 hover:text-purple-800"> About Me</h1>
             <p className="ml-10 mt-8 hover:text-purple-800">
-                I'm a passionate front-end developer with a keen eye for design.
+                Im a passionate front-end developer with a keen eye for design.
             </p>
             <p className="ml-10 hover:text-purple-800"> I specialize in building responsive website that brings</p>
                 <p className="ml-10 hover:text-purple-800"> ideas to life through clean and efficent code.</p>
